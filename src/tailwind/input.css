@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    @apply font-sans;
+}
+h2 {
+    @apply text-3xl font-normal mt-16 mb-2 border-b pb-2 border-b-slate-400;
+}
+
+.entity{
+    @apply text-slate-500 font-medium text-[0.85em];
+}
+
+.phone{
+    @apply text-indigo-700 font-medium text-[1.1em] mb-4 tracking-wide;
+}
