@@ -15,5 +15,5 @@ h2 {
 }
 
 .phone{
-    @apply text-indigo-700 font-medium text-[1.1em] mb-4 tracking-wide;
+    @apply text-indigo-800 font-medium text-[1.1em] mb-4 tracking-wide;
 }
